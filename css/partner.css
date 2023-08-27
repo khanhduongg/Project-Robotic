@@ -1,0 +1,14 @@
+#section-partner{
+    background-color: azure;
+}
+.section-partner-title p {
+        font-size: 0.8rem;
+}
+.section-partner-text p{
+    background-color: #00b3cb;
+    color: #fff;
+    /* display: inline-block; */
+    padding: 1rem;
+    font-weight: 600;
+    margin: 0;
+}

@@ -1,0 +1,22 @@
+#section-course {
+    background-color: azure;
+}
+.section-course-text span{
+    font-size: 1.2rem;
+}
+.section-course-item{
+    background-color: #fff;
+}
+.section-course-text p{
+    font-size: 0.8rem;
+}
+.section-course-buttom  {
+    text-align: center;
+}
+.section-course-buttom button {
+    background: #00cccc;
+    padding: 1rem;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+}
